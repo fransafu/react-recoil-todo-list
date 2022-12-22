@@ -1,7 +1,8 @@
+import { TodoList } from './view/TodoList';
 
 function App() {
   return (
-    <h1>App</h1>
+    <TodoList />
   );
 }
 
